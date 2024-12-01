@@ -1,0 +1,19 @@
+#-------------------------------------------------------
+# Module - 3
+# ----------- for loop over string ---------------
+
+# name = "Dhruba"
+# for chr in name:
+#     print(chr)
+
+
+# -----------  For Loop over Range -------
+# for item in range(10):
+#     print(item)
+
+# ------- For Loop Over List ----
+# city_list = ['Dhaka', 'Comilla', 'Feni', 'Barisal']
+# for list in city_list:
+#     print(list)
+
+

@@ -1,0 +1,12 @@
+[
+    {
+        "title": "first book",
+        "authors": [
+            "second books"
+        ],
+        "isbn": "235",
+        "year": 2024,
+        "price": 500.0,
+        "quantity": 1
+    }
+]
